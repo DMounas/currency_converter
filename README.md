@@ -1,16 +1,52 @@
-# currency_converter
+# Flutter Currency Converter 💸
 
-A new Flutter project.
+A currency converter app built with Flutter, providing real-time exchange rates and featuring both Material and Cupertino designs.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
+
+---
+
+<p align="center">
+  <img src="demo.gif" width="400" alt="App Demo GIF">
+</p>
+
+---
+
+## ✨ Features
+
+- **Real-Time Exchange Rates:** Fetches the latest conversion rates from a live API.
+- **Dual UI Support:** Includes both Android (Material Design) and iOS (Cupertino) interfaces.
+- **Multi-Currency Support:** Convert between a list of major world currencies (USD, EUR, INR, etc.).
+- **User-Friendly Interface:** Clean layout with dropdowns for currency selection and a quick swap button.
+- **Loading Indicators:** Provides visual feedback to the user while fetching data.
+
+---
+
+## ⚙️ How to Run
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/flutter_currency_converter.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd flutter_currency_converter
+    ```
+3.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+4.  **Run the app:**
+    ```bash
+    flutter run
+    ```
+> **Note:** This project uses a free API that does not require an API key, so you can run it immediately after installing dependencies!
