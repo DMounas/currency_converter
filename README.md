@@ -16,7 +16,7 @@ A currency converter app built with Flutter, providing real-time exchange rates 
 ---
 
 <p align="center">
-  <img src="demo.gif" width="400" alt="App Demo GIF">
+  <img src="Currency_converter.gif" width="400" alt="Currency Converter App Demo">
 </p>
 
 ---
